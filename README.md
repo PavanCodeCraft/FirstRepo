@@ -1,4 +1,4 @@
 # FirstRepo
 This is the first repsitory
 <br>
-Author:Pavan Singh
+Author:Pavan Rajput
